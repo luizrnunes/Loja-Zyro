@@ -59,4 +59,4 @@ Este projeto tem como objetivo praticar e demonstrar conhecimentos em desenvolvi
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Richard Silva**
+Desenvolvido por **Luiz Henrique Rodrigues Nunes**
